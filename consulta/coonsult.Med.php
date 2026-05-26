@@ -10,7 +10,6 @@
 
  <h1>TABELA</h1>
 
- 
  <header>
     <ul>
         <li><a href="consulta.html">Voltar</a></li>
